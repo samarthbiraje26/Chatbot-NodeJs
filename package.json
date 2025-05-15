@@ -2,6 +2,7 @@
   "name": "chatbot",
   "version": "1.0.0",
   "description": "Chatbot Nodejs",
+  "type": "module",
   "homepage": "https://github.com/samarthbiraje26/Chatbot-NodeJs#readme",
   "bugs": {
     "url": "https://github.com/samarthbiraje26/Chatbot-NodeJs/issues"
@@ -12,7 +13,6 @@
   },
   "license": "MIT",
   "author": "Samarth Biraje",
-  "type": "commonjs",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
