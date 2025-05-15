@@ -1,0 +1,26 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "Chatbot Nodejs",
+  "homepage": "https://github.com/samarthbiraje26/Chatbot-NodeJs#readme",
+  "bugs": {
+    "url": "https://github.com/samarthbiraje26/Chatbot-NodeJs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samarthbiraje26/Chatbot-NodeJs.git"
+  },
+  "license": "MIT",
+  "author": "Samarth Biraje",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^16.5.0",
+    "openai": "^4.98.0",
+    "readline-sync": "^1.4.10"
+  }
+}
